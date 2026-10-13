@@ -1,0 +1,10 @@
+build/
+out/
+backups/
+private/
+*.elf
+*.nacp
+*.ovl
+*.map
+*.ppm
+__pycache__/
